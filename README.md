@@ -13,3 +13,12 @@ MongoDB: NoSQL database for storing food items and user data
 Express.js: Backend framework for building the RESTful API
 React.js: Frontend library for building the user interface
 Node.js: JavaScript runtime for running the backend server
+
+
+
+![image](https://github.com/SRINU1221/FoodDeliveryApp/assets/79591949/96bf13f5-203c-4804-bc47-21a2a7265ff3)
+
+
+![image](https://github.com/SRINU1221/FoodDeliveryApp/assets/79591949/fd7cd9dd-73f6-48ff-8e25-c0794582b9be)
+
+
