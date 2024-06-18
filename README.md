@@ -1,4 +1,4 @@
-Welcome to the Tomato.  Online Food Delivery Application repository! This project is developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application allows users to order various food items such as cakes, noodles, rollers, and other vegetarian items.
+Welcome to the Tomato.  Online Food Delivery Application , This project is developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application allows users to order various food items such as cakes, noodles, rollers, and other vegetarian items.
 
 **Features**
 User authentication and authorization
